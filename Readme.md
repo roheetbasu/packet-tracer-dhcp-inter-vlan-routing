@@ -168,7 +168,7 @@ Connectivity tests (all should succeed):
 ```
 .
 ├── README.md
-├── xyz-branch-network.pkt
+├── network_designing_using_vlan.pkt
 ├── images/
 │   ├── topology.png
 │   └── ping-test.png
@@ -179,4 +179,4 @@ Connectivity tests (all should succeed):
 
 ## How to Open
 
-Open `xyz-branch-network.pkt` with Cisco Packet Tracer.
+Open `network_designing_using_vlan.pkt` with Cisco Packet Tracer.
